@@ -76,7 +76,7 @@ sandbox-server/
 ## 1. Cloner le projet
 
 ```bash
-git clone URL_DU_REPO
+git clone https://github.com/AminataCodes/Projet-Docker1.git
 ```
 
 ## 2. Aller dans le dossier du projet
