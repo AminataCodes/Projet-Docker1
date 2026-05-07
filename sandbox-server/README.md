@@ -27,4 +27,4 @@ Les données sont stockées dans des fichiers JSON afin de conserver les informa
 ## Cloner le projet
 
 ```bash
-git clone URL_DU_REPO
+git clone https://github.com/AminataCodes/Projet-Docker1.git
