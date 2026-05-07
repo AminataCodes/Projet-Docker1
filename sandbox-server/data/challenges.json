@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "question": "Quelle est la capitale de la France ?",
+    "reponse": "Paris",
+    "difficulte": "Facile",
+    "points": 5
+  },
+  {
+    "id": 2,
+    "question": "Quel joueur a remporté le plus de Ballons d'Or ?",
+    "reponse": "Lionel Messi",
+    "difficulte": "Moyenne",
+    "points": 20
+  },
+  {
+    "id": 3,
+    "question": "Quel langage est principalement utilisé avec React ?",
+    "reponse": "JavaScript",
+    "difficulte": "Difficile",
+    "points": 45
+  },
+  {
+    "id": 4,
+    "question": "Combien y a-t-il de continents sur Terre ?",
+    "reponse": "7",
+    "difficulte": "Moyenne",
+    "points": 25
+  },
+  {
+    "id": 5,
+    "question": "Quel est le plus grand océan du monde ?",
+    "reponse": "Pacifique",
+    "difficulte": "Difficile",
+    "points": 30
+  },
+  {
+    "id": 6,
+    "question": "Est ce que Yahia est intelligent ?",
+    "reponse": "Oui",
+    "difficulte": "Facile",
+    "points": 10
+  }
+]
